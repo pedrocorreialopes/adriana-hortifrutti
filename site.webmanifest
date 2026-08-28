@@ -1,0 +1,16 @@
+{
+  "name": "Adriana Hortifrutti",
+  "short_name": "Adriana Hortifrutti",
+  "description": "Hortifrúti completo em Fortaleza-CE: frutas, verduras e produtos de granja frescos.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "images/favicon-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
